@@ -22,10 +22,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LinearTundra&show_icons=true&locale=en" alt="LinearTundra" />
 </p>
 
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=LinearTundra)
+
+
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=LinearTundra" alt="GitHub Streak Stats" />
-</p>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LinearTundra&show_icons=true&locale=en&layout=compact" alt="LinearTundra"/>
 </p>
 
