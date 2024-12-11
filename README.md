@@ -1,6 +1,6 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF4MmtldG9ieXZ2YmtiNm44bTE2ZGdlOWZ3eGZzd256c2lra294eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" alt="Masterhead" style=" width: 870px; height: 300px; margin-left:20px;"/>
 <h1 align="center">Hi 👋, I'm Samdarsh Mahajan</h1>
-<h3 align="center">A gaming-developing enthusiast from Delhi</h3>
+<h3 align="center">A game-developing enthusiast from Delhi</h3>
 
 <img align ="right" alt="coding" width ="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNidnpkMGc3aDh3cTRjdWloc2VjNXdicnZqcXloY2k3eHE1NG0wdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
