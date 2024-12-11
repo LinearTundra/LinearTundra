@@ -26,7 +26,7 @@
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=LinearTundra)
 
 
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=LinearTundra" alt="GitHub Streak Stats" />
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LinearTundra&show_icons=true&locale=en&layout=compact" alt="LinearTundra"/>
 </p>
 
