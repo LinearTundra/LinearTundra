@@ -19,11 +19,9 @@
     </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LinearTundra&show_icons=true&locale=en" alt="LinearTundra" />
-</p>
+<!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LinearTundra&show_icons=true&locale=en" alt="LinearTundra" />
+</p-->
 
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=LinearTundra)
 
 
 <p>
