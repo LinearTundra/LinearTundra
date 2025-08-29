@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=1000&pause=100&color=0FE942&background=C2FF4800&multiline=true&width=850&height=127&lines=Hi!!%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Samdarsh+Mahajan;A+budding+Game-Developer+from+Delhi%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&repeat=false&size=30&duration=1000&pause=10&color=0FE942&background=C2FF4800&multiline=true&width=850&height=127&lines=Hi!!%F0%9F%91%8B%F0%9F%8F%BB%2C+I+am+Samdarsh+Mahajan;A+budding+Game-Developer+from+Delhi%F0%9F%98%8A" alt="Typing SVG" /></a>
 <img align ="right" alt="coding" width ="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNidnpkMGc3aDh3cTRjdWloc2VjNXdicnZqcXloY2k3eHE1NG0wdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
